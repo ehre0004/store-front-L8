@@ -79,6 +79,8 @@ a {
 .product-info {
   flex: 1;
   text-align: left;
+  background: white;
+  border-radius: 25px 25px;
 }
 
 .product-info h2 {
